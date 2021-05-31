@@ -1,0 +1,24 @@
+body {
+	background-color: #000000;/*Color de fondo*/
+}
+
+	h2{ /*Enunciado h1*/
+	color:#00FFFF;/*color de letra de h1*/
+	font-family:Broadway;/*tipo de letra de h1*/
+	font-size:40px; /*tamaño de h1*/
+	
+	
+	}
+
+	h3{ /*Enunciado h2*/
+	color: #FF00FF;/*color de letra de h2*/
+	font-family:Times New Roman;/*tipo de letra de h2*/
+	font-size:30px;/*tamaño de h2*/
+	text-align: center;/*texto centrado*/
+	}
+	
+	h4{ /*Enunciado h3*/
+	color:#FFFFFF; /*color de letra de h3*/
+	font-family:Maiandra GD;/*tipo de letra de h3*/
+	font-size:25px; /*tamaño de h3*/
+	}
